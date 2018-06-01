@@ -1,5 +1,6 @@
 def main():
     print("This program illustrates a chaotic function")
+    print("This is the change i have made")
     x = float(input("Enter a number between 0 and 1: "))
     z = float(input("Enter the second number between 0 and 1: "))
     y = int(input("Enter the number of values to print: "))
